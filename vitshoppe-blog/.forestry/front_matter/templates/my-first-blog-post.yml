@@ -5,3 +5,8 @@ fields:
 - type: text
   name: layout
   label: layout
+- name: firstfield
+  type: text
+  config:
+    required: false
+  label: firstField
