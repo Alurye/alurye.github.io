@@ -10,3 +10,5 @@ fields:
   config:
     required: false
   label: firstField
+pages:
+- vitshoppe-blog/firstpage.md
